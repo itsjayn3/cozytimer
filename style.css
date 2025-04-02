@@ -40,6 +40,11 @@ body{
     height: 35px;
 }
 
+.button:hover{
+    background-color: plum;
+    cursor: pointer;
+}
+
 #start_btn{
     margin-left:350px;
 }
