@@ -7,7 +7,7 @@ body{
     background-size: cover;
     -webkit-background-size:cover;
 }
-
+/* timer styling */
 #outer_rectangle{
     width: 508px;
     height: 233px;
@@ -27,4 +27,22 @@ body{
     border-radius: 20px;
     position: absolute;
     background-color: #F3EAF0;
+}
+/* button styling*/
+.button{
+    background-color: rgb(131, 19, 137);
+    color: #fdfafc;
+    border-radius: 50px;
+    border-color: #DABED4;
+    border-style:none;
+    margin: 10px;
+    width: 75px;
+    height: 35px;
+}
+
+#start_btn{
+    margin-left:350px;
+}
+#pause_btn{
+    margin-left: 20px;
 }
